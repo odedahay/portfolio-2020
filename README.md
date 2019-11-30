@@ -1,4 +1,5 @@
 
-# portfolio-2020
+# Portfolio-2020
 ## www.odedahay.com
-#### This is my 3rd version for my portfolio
+In the words of Abraham Lincoln:
+> This is my 3rd version for my portfolio
